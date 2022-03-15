@@ -11,7 +11,7 @@
 #
 
 default: &default
-  adapter: "mysql2"
+  adapter: mysql2
   database: heroku_f69416a1cd8fb03
   username: b47b4ea68c3a1d
   password: 8b5e0492
